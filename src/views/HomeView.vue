@@ -1,10 +1,9 @@
-
 <template>
-	<div>
-		<Map></Map>
-	</div>
+    <div>
+        <Map></Map>
+    </div>
 </template>
 
 <script setup>
-import Map from '@/components/Map';
+import Map from '@/components/Map.vue';
 </script>
